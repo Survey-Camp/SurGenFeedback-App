@@ -8,7 +8,7 @@ import google.generativeai as genai
 load_dotenv()
 
 # Use the environment variable for the Gemini API key
-GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
+GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
 
 bot = '''Okay, I understand. Based on the negative feedback keywords: "Poor service," "failed delivery," and "totally unprofessional," I will generate 15 survey questions, including Yes/No, rating scale, Good/Bad choice, and short answer questions, tailored to investigate the issues mentioned. Here's the JSON output:'''
 

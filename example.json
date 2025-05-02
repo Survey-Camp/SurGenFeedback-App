@@ -1,0 +1,55 @@
+{
+    "question 01": "Do you believe our company is genuinely committed to environmental responsibility?",
+    "answer for question 01": [
+        {"option": "1", "text": "Yes"},
+        {"option": "2", "text": "No"}
+    ],
+    "question 02": "How satisfied were you with the speed of delivery?",
+    "answer for question 02": [
+        {"option": "1", "text": "Very Satisfied"},
+        {"option": "2", "text": "Satisfied"},
+        {"option": "3", "text": "Neutral"},
+        {"option": "4", "text": "Dissatisfied"},
+        {"option": "5", "text": "Very Dissatisfied"}
+    ],
+    "question 03": "Did you experience any issues with the product quality?",
+    "answer for question 03": [
+        {"option": "1", "text": "Good"},
+        {"option": "2", "text": "Bad"}
+    ],
+    "question 04": "How would you rate the overall professionalism of our customer service representatives?",
+    "answer for question 04": [
+        {"option": "1", "text": "1"},
+        {"option": "2", "text": "2"},
+        {"option": "3", "text": "3"},
+        {"option": "4", "text": "4"},
+        {"option": "5", "text": "5"}
+    ],
+    "question 05": "Please describe your experience with our delivery service.",
+    "answer for question 05": [{"option": "1", "text": "Open Text"}],
+    "question 06": "Would you recommend our company to others?",
+    "answer for question 06": [
+        {"option": "1", "text": "Yes"},
+        {"option": "2", "text": "No"}
+    ],
+    "question 07": "Rate the politeness of our staff.",
+    "answer for question 07": [
+        {"option": "1", "text": "1"},
+        {"option": "2", "text": "2"},
+        {"option": "3", "text": "3"},
+        {"option": "4", "text": "4"},
+        {"option": "5", "text": "5"}
+    ],
+    "question 08": "Was the product delivered as expected?",
+    "answer for question 08": [
+        {"option": "1", "text": "Yes"},
+        {"option": "2", "text": "No"}
+    ],
+    "question 09":  "Did you find our website user-friendly?",
+    "answer for question 09": [
+        {"option": "1", "text": "Yes"},
+        {"option": "2", "text": "No"}
+    ],
+    "question 10": "What suggestions do you have for improving our services?",
+    "answer for question 10": [{"option": "1", "text": "Open Text"}]
+}

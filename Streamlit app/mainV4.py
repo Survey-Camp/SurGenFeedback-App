@@ -57,7 +57,7 @@ try:
     "client_x509_cert_url": st.secrets["firebase"]["client_x509_cert_url"]
     }
 
-    cred = credentials.Certificate('firebase_creds')
+    cred = credentials.Certificate(firebase_creds)
     # Initialize Firebase app if not already initialized
     try:
         firebase_admin.initialize_app(cred)

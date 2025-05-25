@@ -76,7 +76,7 @@ except Exception as e:
     st.stop()
 
 # Survey goal input
-survey_goal = st.text_area("Survey Goal", placeholder="Enter the goal of your survey ", height=100)
+survey_goal = st.text_area("Survey Goal", placeholder="e.g.,To collect customer opinions on food quality, service, and ambiance at [Restaurant Name] ", height=100)
 
 # Topic selection
 st.subheader("Select Topics")
